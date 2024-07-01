@@ -19,5 +19,13 @@
   },
   "devDependencies": {
     "typescript": "^5.2.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrankenstine/rive-pixi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afrankenstine/rive-pixi/issues"
+  },
+  "homepage": "https://github.com/afrankenstine/rive-pixi#readme"
 }
